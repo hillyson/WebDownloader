@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDownloader", "WebDownloader\WebDownloader.csproj", "{CC85D7AE-81F7-411D-B0DC-93E32EB97FA4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebDownloaderTest", "WebDownloaderTest\WebDownloaderTest.csproj", "{9AA22C00-95F5-48F4-AB15-691F8D2EADE6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{EB14B3C6-E490-4089-A25D-275E1FA36BA9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CC85D7AE-81F7-411D-B0DC-93E32EB97FA4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CC85D7AE-81F7-411D-B0DC-93E32EB97FA4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CC85D7AE-81F7-411D-B0DC-93E32EB97FA4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CC85D7AE-81F7-411D-B0DC-93E32EB97FA4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9AA22C00-95F5-48F4-AB15-691F8D2EADE6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9AA22C00-95F5-48F4-AB15-691F8D2EADE6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9AA22C00-95F5-48F4-AB15-691F8D2EADE6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9AA22C00-95F5-48F4-AB15-691F8D2EADE6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
